@@ -8,6 +8,8 @@
 - ⚡ Fun fact **Banana are actually berries.**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZtOHM5YXU2Y2FtZzdiM200cnR0Mng4cDRmdDJpdG5nNHk3aWhuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" >
+
 <p align="left">
 <a href="https://twitter.com/san_d_es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="san_d_es" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandesh-adhikari-3b14532a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandesh-adhikari-3b14532a4" height="30" width="40" /></a>
@@ -15,8 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!--<img align="right" alt="coding" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZtOHM5YXU2Y2FtZzdiM200cnR0Mng4cDRmdDJpdG5nNHk3aWhuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" >
--->
+
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
