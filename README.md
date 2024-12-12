@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Adhikari</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<h3 align="center">Hi there! I'm Sandesh Adhikari, an aspiring full-stack developer with a passion for JavaScript, React, and backend development using MongoDB and Express. I’m currently working on enhancing my skills while exploring the intricacies of web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lineardash&label=Profile%20views&color=0e75b6&style=flat" alt="lineardash" /> </p>
 
